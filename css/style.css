@@ -1,0 +1,16 @@
+body {
+  background-color: #06283D;
+  color: #DFF6FF;
+  font-family: Sofia;
+}
+
+hr{
+  border-color: grey;
+  border-width: 5px;
+  border-style: dotted none none none;
+  width: 5%;
+}
+
+img{
+  width: 125px;height:250px
+}
