@@ -1,7 +1,14 @@
 body {
-  background-color: #06283D;
-  color: #DFF6FF;
+  background-color: #FFEEEE;
+  /*color: #F7E9D7;*/
   font-family: Sofia;
+}
+
+h1{
+  color: #66BFBF;
+}
+h3{
+  color: #66BFBF;
 }
 
 hr{
